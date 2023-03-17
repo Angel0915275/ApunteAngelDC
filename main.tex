@@ -1,0 +1,114 @@
+\documentclass[
+12pt, 
+spanish, 
+onehalfspacing, 
+liststotoc, 
+toctotoc, 
+headsepline, 
+]{MastersDoctoralThesis} 
+
+
+\usepackage[T1]{fontenc} 
+\usepackage[latin1]{inputenc}
+\usepackage{palatino}
+\usepackage[autostyle=true]{csquotes} 
+\usepackage{xcolor}
+\usepackage{graphicx,moreverb}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{float}
+\usepackage{array}  
+\newcolumntype{P}[1]{>{\centering\arraybackslash}p{#1}} 
+\newcolumntype{M}[1]{>{\centering\arraybackslash}m{#1}} 
+\usepackage{pdflscape} 
+\usepackage{afterpage}
+\usepackage{capt-of}
+\usepackage{epigraph} 
+\usepackage[]{algorithm2e} 
+\usepackage{algorithmic}
+\usepackage{amsmath}
+\usepackage{float}
+\usepackage[backend=bibtex,style=numeric,natbib=true]{biblatex}
+
+
+\definecolor{wine}{rgb}{.545,.1,.1} 
+\addbibresource{bibtesis.bib} % Colocan su archivo jabref .bib
+
+
+\geometry{
+	paper=letterpaper, 
+	inner=1.5cm,
+	outer=2cm, 
+	bindingoffset=2cm, 
+	top=1.5cm, 
+	bottom=1.5cm, 
+}
+
+\begin{document}
+
+\frontmatter 
+\pagestyle{plain} 
+
+
+
+\begin{titlepage}
+	\centering \includegraphics[scale=0.75,bb=0 0 150 150]{uaemex.png} 
+\begin{center}
+{\scshape\LARGE \textsc{\LARGE Universidad Aut\'{o}noma del Estado de M\'{e}xico}\par}\vspace{0.8cm} 
+\textsc{\Large Diplomado Superior en Desarrollo de Software Empresarial}\\[0.8cm] 
+\HRule \\[0.4cm] 
+{\Large \bfseries \ttitle\par}\vspace{0.2cm} 
+\HRule \\[0.8cm] 
+\Large {Diplomado que presenta}\\
+\Large {{Nombre Alumno}{\authorname} }\\ 
+\bigskip
+\Large{Modulo I}\\
+\Large{\textbf{Sistemas Distribuidos}}\\
+\bigskip
+\Large{Docente:}\\
+\Large{{M. en C. Laura Jalili}{\supname} }\\
+\vspace{1.0cm}
+\noindent
+\begin{tabular}[t]{@{}l} 
+  Texcoco, Estado de M\'{e}xico.
+\end{tabular}
+\hfill
+\begin{tabular}[t]{l@{}}
+   Junio del 2021
+\end{tabular}
+ \vfill
+\end{center}
+\end{titlepage}
+
+%----------------------------------------------------------------------------------------
+%	indice
+%----------------------------------------------------------------------------------------
+\mainmatter 
+\pagestyle{thesis} 
+\newcommand{\keyword}[1]{\textbf{#1}}
+\newcommand{\tabhead}[1]{\textbf{#1}}
+\newcommand{\code}[1]{\texttt{#1}}
+\newcommand{\file}[1]{\texttt{\bfseries#1}}
+\newcommand{\option}[1]{\texttt{\itshape#1}}
+%----------------------------------------------------------------------------------------
+\tableofcontents
+\include{Chapters/Clase1}
+%\include{Chapters/Clase2}
+
+%----------------------------------------------------------------------------------------
+%	bibliografía
+%----------------------------------------------------------------------------------------
+\printbibliography[heading=bibintoc]
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+

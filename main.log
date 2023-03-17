@@ -1,0 +1,1134 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=latex 2021.5.15)  5 JUN 2021 08:03
+entering extended mode
+**./main.tex
+(main.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-04-06> (MastersDoctoralThesis.cls
+Document Class: MastersDoctoralThesis 2015/11/08 v1.2 LaTeXTemplates.com
+(D:\Instalados\MikTex\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count167
+)
+(D:\Instalados\MikTex\tex/latex/l3packages/xparse\xparse.sty
+(D:\Instalados\MikTex\tex/latex/l3kernel\expl3.sty
+Package: expl3 2020-04-06 L3 programming layer (loader) 
+
+(D:\Instalados\MikTex\tex/latex/l3backend\l3backend-dvips.def
+File: l3backend-dvips.def 2020-03-12 L3 backend support: dvips
+\l__pdf_internal_box=\box45
+\g__pdf_backend_object_int=\count168
+\l__pdf_backend_content_box=\box46
+\l__pdf_backend_model_box=\box47
+\g__pdf_backend_annotation_int=\count169
+\g__pdf_backend_link_int=\count170
+\g__pdf_backend_link_sf_int=\count171
+))
+Package: xparse 2020-03-06 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count172
+\g__xparse_grabber_int=\count173
+\l__xparse_m_args_int=\count174
+\l__xparse_v_nesting_int=\count175
+)
+(D:\Instalados\MikTex\tex/latex/base\book.cls
+Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
+(D:\Instalados\MikTex\tex/latex/base\bk12.clo
+File: bk12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count176
+\c@chapter=\count177
+\c@section=\count178
+\c@subsection=\count179
+\c@subsubsection=\count180
+\c@paragraph=\count181
+\c@subparagraph=\count182
+\c@figure=\count183
+\c@table=\count184
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(D:\Instalados\MikTex\tex/generic/babel\babel.sty
+Package: babel 2020/03/22 3.42 The Babel package
+
+(D:\Instalados\MikTex\tex/generic/babel\switch.def
+File: switch.def 2020/03/22 3.42 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+(D:\Instalados\MikTex\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(D:\Instalados\MikTex\tex/latex/babel-spanish\spanish.ldf
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+
+(D:\Instalados\MikTex\tex/generic/babel\babel.def
+File: babel.def 2020/03/22 3.42 Babel common definitions
+\babel@savecnt=\count185
+\U@D=\dimen135
+
+(D:\Instalados\MikTex\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count186
+)
+\es@quottoks=\toks15
+\es@quotdepth=\count187
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+))
+(D:\Instalados\MikTex\tex/latex/koma-script\scrbase.sty
+Package: scrbase 2021/03/17 v3.33 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(D:\Instalados\MikTex\tex/latex/koma-script\scrlfile.sty
+Package: scrlfile 2021/03/17 v3.33 KOMA-Script package (file load hooks)
+
+(D:\Instalados\MikTex\tex/latex/koma-script\scrlfile-patcholdlatex.sty
+Package: scrlfile-patcholdlatex 2021/03/17 v3.33 KOMA-Script package (patching 
+old LaTeX kernels)
+
+(D:\Instalados\MikTex\tex/latex/koma-script\scrlogo.sty
+Package: scrlogo 2021/03/17 v3.33 KOMA-Script package (logo)
+)))
+(D:\Instalados\MikTex\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+Skipping: [2021/05/01] Usage of raw option list on input line 252.
+Applying: [0000/00/00] compatibility for LaTeX before 2021/05/01 on input line 
+337.
+)
+(D:\Instalados\MikTex\tex/latex/koma-script\scrhack.sty
+Package: scrhack 2021/03/17 v3.33 KOMA-Script package (hacking other packages)
+
+(D:\Instalados\MikTex\tex/latex/koma-script\scrkbase.sty
+Package: scrkbase 2021/03/17 v3.33 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+)
+(D:\Instalados\MikTex\tex/latex/xpatch\xpatch.sty
+Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
+))
+(D:\Instalados\MikTex\tex/latex/setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+Package scrhack Info: loading setspace hack on input line 145.
+
+(D:\Instalados\MikTex\tex/latex/koma-script\setspace.hak
+File: setspace.hak 2021/03/17 v3.33 KOMA-Script scrhack part (hacking package s
+etspace)
+)
+(D:\Instalados\MikTex\tex/latex/tools\longtable.sty
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip49
+\LTright=\skip50
+\LTpre=\skip51
+\LTpost=\skip52
+\LTchunksize=\count188
+\LTcapwidth=\dimen136
+\LT@head=\box48
+\LT@firsthead=\box49
+\LT@foot=\box50
+\LT@lastfoot=\box51
+\LT@cols=\count189
+\LT@rows=\count190
+\c@LT@tables=\count191
+\c@LT@chunks=\count192
+\LT@p@ftn=\toks17
+)
+(D:\Instalados\MikTex\tex/latex/siunitx\siunitx.sty
+Package: siunitx 2021-04-17 v2.8e A comprehensive (SI) units package
+
+(D:\Instalados\MikTex\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(D:\Instalados\MikTex\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen137
+))
+(D:\Instalados\MikTex\tex/latex/tools\array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen138
+\ar@mcellbox=\box52
+\extrarowheight=\dimen139
+\NC@list=\toks19
+\extratabsurround=\skip53
+\backup@length=\skip54
+\ar@cellbox=\box53
+)
+(D:\Instalados\MikTex\tex/latex/l3packages/l3keys2e\l3keys2e.sty
+Package: l3keys2e 2020-03-06 LaTeX2e option processing using LaTeX3 keys
+)
+\l__siunitx_tmp_box=\box54
+\l__siunitx_tmp_dim=\dimen140
+\l__siunitx_tmp_int=\count193
+\l__siunitx_number_mantissa_length_int=\count194
+\l__siunitx_number_uncert_length_int=\count195
+\l__siunitx_round_int=\count196
+\l__siunitx_process_decimal_int=\count197
+\l__siunitx_process_uncertainty_int=\count198
+\l__siunitx_process_fixed_int=\count199
+\l__siunitx_process_integer_min_int=\count266
+\l__siunitx_process_precision_int=\count267
+\l__siunitx_group_min_int=\count268
+\l__siunitx_angle_marker_box=\box55
+\l__siunitx_angle_unit_box=\box56
+\l__siunitx_angle_marker_dim=\dimen141
+\l__siunitx_angle_unit_dim=\dimen142
+\l__siunitx_unit_int=\count269
+\l__siunitx_unit_denominator_int=\count270
+\l__siunitx_unit_numerator_int=\count271
+\l__siunitx_unit_prefix_int=\count272
+\l__siunitx_unit_prefix_base_int=\count273
+\l__siunitx_unit_prefix_gram_int=\count274
+\l__siunitx_number_product_int=\count275
+\c__siunitx_one_fill_skip=\skip55
+\l__siunitx_table_unit_align_skip=\skip56
+\l__siunitx_table_exponent_dim=\dimen143
+\l__siunitx_table_integer_dim=\dimen144
+\l__siunitx_table_mantissa_dim=\dimen145
+\l__siunitx_table_marker_dim=\dimen146
+\l__siunitx_table_result_dim=\dimen147
+\l__siunitx_table_uncert_dim=\dimen148
+\l__siunitx_table_fill_pre_dim=\dimen149
+\l__siunitx_table_fill_post_dim=\dimen150
+\l__siunitx_table_fill_mid_dim=\dimen151
+\l__siunitx_table_pre_box=\box57
+\l__siunitx_table_post_box=\box58
+\l__siunitx_table_mantissa_box=\box59
+\l__siunitx_table_result_box=\box60
+\l__siunitx_table_number_align_skip=\skip57
+\l__siunitx_table_text_align_skip=\skip58
+
+(D:\Instalados\MikTex\tex/latex/translator\translator.sty
+Package: translator 2020-08-03 v1.12c Easy translation of strings in LaTeX
+))
+(D:\Instalados\MikTex\tex/latex/graphics\graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(D:\Instalados\MikTex\tex/latex/graphics\graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(D:\Instalados\MikTex\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(D:\Instalados\MikTex\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvips.def on input line 105.
+
+(D:\Instalados\MikTex\tex/latex/graphics-def\dvips.def
+File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
+))
+\Gin@req@height=\dimen152
+\Gin@req@width=\dimen153
+)
+(D:\Instalados\MikTex\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen154
+\lightrulewidth=\dimen155
+\cmidrulewidth=\dimen156
+\belowrulesep=\dimen157
+\belowbottomsep=\dimen158
+\aboverulesep=\dimen159
+\abovetopsep=\dimen160
+\cmidrulesep=\dimen161
+\cmidrulekern=\dimen162
+\defaultaddspace=\dimen163
+\@cmidla=\count276
+\@cmidlb=\count277
+\@aboverulesep=\dimen164
+\@belowrulesep=\dimen165
+\@thisruleclass=\count278
+\@lastruleclass=\count279
+\@thisrulewidth=\dimen166
+)
+(D:\Instalados\MikTex\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(D:\Instalados\MikTex\tex/latex/caption\caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen167
+\captionmargin@=\dimen168
+\captionwidth=\dimen169
+\caption@tempdima=\dimen170
+\caption@indent=\dimen171
+\caption@parindent=\dimen172
+\caption@hangindent=\dimen173
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count280
+\c@continuedfloat=\count281
+Package caption Info: longtable package is loaded.
+
+(D:\Instalados\MikTex\tex/latex/caption\ltcaption.sty
+Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
+))
+(D:\Instalados\MikTex\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(D:\Instalados\MikTex\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(D:\Instalados\MikTex\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count282
+\Gm@cntv=\count283
+\c@Gm@tempcnt=\count284
+\Gm@bindingoffset=\dimen174
+\Gm@wd@mp=\dimen175
+\Gm@odd@mp=\dimen176
+\Gm@even@mp=\dimen177
+\Gm@layoutwidth=\dimen178
+\Gm@layoutheight=\dimen179
+\Gm@layouthoffset=\dimen180
+\Gm@layoutvoffset=\dimen181
+\Gm@dimlist=\toks20
+
+(D:\Instalados\MikTex\tex/latex/geometry\geometry.cfg))
+(D:\Instalados\MikTex\tex/latex/koma-script\scrlayer-scrpage.sty
+Package: scrlayer-scrpage 2021/03/17 v3.33 KOMA-Script package (end user interf
+ace for scrlayer)
+
+(D:\Instalados\MikTex\tex/latex/koma-script\scrlayer.sty
+Package: scrlayer 2021/03/17 v3.33 KOMA-Script package (defining layers and pag
+e styles)
+\footheight=\skip59
+Package scrlayer Info: patching LaTeX kernel macro \pagestyle on input line 216
+2.
+)
+Package scrbase Info: Unknown processing state.
+(scrbase)             Processing option `markcase=used'
+(scrbase)             of member `.scrlayer-scrpage.sty' of family
+(scrbase)             `KOMA' doesn't set
+(scrbase)             a valid state. This will be interpreted
+(scrbase)             as \FamilyKeyStateProcessed on input line 636.
+)
+Package scrlayer-scrpage Info: auto-selection of `pagestyleset=standard'.
+
+1: chapter
+1: chapter
+1: section
+) (D:\Instalados\MikTex\tex/latex/base\fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+)
+(D:\Instalados\MikTex\tex/latex/base\inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks21
+\inpenc@posthook=\toks22
+
+(D:\Instalados\MikTex\tex/latex/base\latin1.def
+File: latin1.def 2018/08/11 v1.3c Input encoding file
+))
+(D:\Instalados\MikTex\tex/latex/psnfss\palatino.sty
+Package: palatino 2020/03/25 PSNFSS-v9.3 (SPQR) 
+)
+(D:\Instalados\MikTex\tex/latex/csquotes\csquotes.sty
+Package: csquotes 2021-02-22 v5.2l context-sensitive quotations (JAW)
+\csq@reset=\count285
+\csq@gtype=\count286
+\csq@glevel=\count287
+\csq@qlevel=\count288
+\csq@maxlvl=\count289
+\csq@tshold=\count290
+\csq@ltx@everypar=\toks23
+
+(D:\Instalados\MikTex\tex/latex/csquotes\csquotes.def
+File: csquotes.def 2021-02-22 v5.2l csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(D:\Instalados\MikTex\tex/latex/csquotes\csquotes.cfg
+File: csquotes.cfg 
+)
+Package csquotes Info: Enabling multilingual quotes.
+)
+(D:\Instalados\MikTex\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(D:\Instalados\MikTex\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: dvips.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(D:\Instalados\MikTex\tex/latex/moreverb\moreverb.sty
+Package: moreverb 2008/06/03 v2.3a `more' verbatim facilities
+
+(D:\Instalados\MikTex\tex/latex/tools\verbatim.sty
+Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks24
+\verbatim@line=\toks25
+\verbatim@in@stream=\read3
+)
+\tab@position=\count291
+\tab@size=\count292
+\listing@line=\count293
+)
+(D:\Instalados\MikTex\tex/latex/caption\subcaption.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+\c@subfigure=\count294
+\c@subtable=\count295
+)
+(D:\Instalados\MikTex\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count296
+\float@exts=\toks26
+\float@box=\box61
+\@float@everytoks=\toks27
+\@floatcapt=\box62
+)
+Package scrhack Info: loading float hack on input line 20.
+
+(D:\Instalados\MikTex\tex/latex/koma-script\float.hak
+File: float.hak 2021/03/17 v3.33 KOMA-Script scrhack part (hacking package floa
+t)
+
+(D:\Instalados\MikTex\tex/latex/koma-script\tocbasic.sty
+Package: tocbasic 2021/03/17 v3.33 KOMA-Script package (handling toc-files)
+\scr@dte@tocline@numberwidth=\skip60
+\scr@dte@tocline@numbox=\box63
+)
+Package scrhack Info: redefining \newfloat on input line 163.
+Package scrhack Info: redefining \listof on input line 163.
+Package scrhack Info: undefining \float@addtolists on input line 163.
+)
+(D:\Instalados\MikTex\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+
+(D:\Instalados\MikTex\tex/latex/graphics\lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package scrhack Info: loading lscape hack on input line 77.
+
+(D:\Instalados\MikTex\tex/latex/koma-script\lscape.hak
+File: lscape.hak 2021/03/17 v3.33 KOMA-Script scrhack part (hacking package lsc
+ape)
+Package scrhack Info: \landscape patched to make \textheight change optional on
+ input line 90.
+\scrh@LT@textheight=\skip61
+)
+Package pdflscape Info: Auto-detected driver: dvips (dvips) on input line 124.
+
+(D:\Instalados\MikTex\tex/generic/atbegshi\atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+
+(D:\Instalados\MikTex\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(D:\Instalados\MikTex\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)))
+(D:\Instalados\MikTex\tex/latex/tools\afterpage.sty
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks28
+\AP@partial=\box64
+\AP@footins=\box65
+)
+(D:\Instalados\MikTex\tex/latex/capt-of\capt-of.sty
+Package: capt-of 2009/12/29 v0.2 standard captions outside of floats
+)
+(D:\Instalados\MikTex\tex/latex/epigraph\epigraph.sty
+Package: epigraph 2020/01/02 v1.5e typesetting epigraphs
+
+(D:\Instalados\MikTex\tex/latex/nextpage\nextpage.sty
+Package: nextpage 2009/09/03 v1.1a additional page commands
+)
+\beforeepigraphskip=\skip62
+\afterepigraphskip=\skip63
+\epigraphwidth=\skip64
+\epigraphrule=\skip65
+)
+(D:\Instalados\MikTex\tex/latex/algorithm2e\algorithm2e.sty
+Package: algorithm2e 2017/07/18 v5.2 algorithms environments
+\c@AlgoLine=\count297
+
+(D:\Instalados\MikTex\tex/latex/base\ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\algocf@hangindent=\skip66
+
+(D:\Instalados\MikTex\tex/latex/ifoddpage\ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count298
+)
+(D:\Instalados\MikTex\tex/latex/tools\xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(D:\Instalados\MikTex\tex/latex/relsize\relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+\skiptotal=\skip67
+\skiplinenumber=\skip68
+\skiprule=\skip69
+\skiphlne=\skip70
+\skiptext=\skip71
+\skiplength=\skip72
+\algomargin=\skip73
+\skipalgocfslide=\skip74
+\algowidth=\dimen182
+\inoutsize=\dimen183
+\inoutindent=\dimen184
+\interspacetitleruled=\dimen185
+\interspacealgoruled=\dimen186
+\interspacetitleboxruled=\dimen187
+\algocf@ruledwidth=\skip75
+\algocf@inoutbox=\box66
+\algocf@inputbox=\box67
+\AlCapSkip=\skip76
+\AlCapHSkip=\skip77
+\algoskipindent=\skip78
+\algocf@nlbox=\box68
+\algocf@hangingbox=\box69
+\algocf@untilbox=\box70
+\algocf@skipuntil=\skip79
+\algocf@capbox=\box71
+\algocf@lcaptionbox=\skip80
+\algoheightruledefault=\skip81
+\algoheightrule=\skip82
+\algotitleheightruledefault=\skip83
+\algotitleheightrule=\skip84
+\c@algocfline=\count299
+\c@algocfproc=\count300
+\c@algocf=\count301
+\algocf@algoframe=\box72
+\algocf@algobox=\box73
+)
+(D:\Instalados\MikTex\tex/latex/algorithms\algorithmic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+\c@ALC@unique=\count302
+\c@ALC@line=\count303
+\c@ALC@rem=\count304
+\c@ALC@depth=\count305
+\ALC@tlm=\skip85
+\algorithmicindent=\skip86
+)
+(D:\Instalados\MikTex\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip87
+
+For additional information on amsmath, use the `?' option.
+(D:\Instalados\MikTex\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen188
+)
+(D:\Instalados\MikTex\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count306
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count307
+\leftroot@=\count308
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count309
+\DOTSCASE@=\count310
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box74
+\strutbox@=\box75
+\big@size=\dimen189
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count311
+\c@MaxMatrixCols=\count312
+\dotsspace@=\muskip16
+\c@parentequation=\count313
+\dspbrk@lvl=\count314
+\tag@help=\toks29
+\row@=\count315
+\column@=\count316
+\maxfields@=\count317
+\andhelp@=\toks30
+\eqnshift@=\dimen190
+\alignsep@=\dimen191
+\tagshift@=\dimen192
+\tagwidth@=\dimen193
+\totwidth@=\dimen194
+\lineht@=\dimen195
+\@envbody=\toks31
+\multlinegap=\skip88
+\multlinetaggap=\skip89
+\mathdisplay@stack=\toks32
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+(D:\Instalados\MikTex\tex/latex/biblatex\biblatex.sty
+Package: biblatex 2019/12/01 v3.14 programmable bibliographies (PK/MW)
+
+(D:\Instalados\MikTex\tex/latex/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode is ignored in DVI mode.
+)
+(D:\Instalados\MikTex\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+
+(D:\Instalados\MikTex\tex/generic/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(D:\Instalados\MikTex\tex/latex/logreq\logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count318
+
+(D:\Instalados\MikTex\tex/latex/logreq\logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(D:\Instalados\MikTex\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count319
+\c@listtotal=\count320
+\c@listcount=\count321
+\c@liststart=\count322
+\c@liststop=\count323
+\c@citecount=\count324
+\c@citetotal=\count325
+\c@multicitecount=\count326
+\c@multicitetotal=\count327
+\c@instcount=\count328
+\c@maxnames=\count329
+\c@minnames=\count330
+\c@maxitems=\count331
+\c@minitems=\count332
+\c@citecounter=\count333
+\c@maxcitecounter=\count334
+\c@savedcitecounter=\count335
+\c@uniquelist=\count336
+\c@uniquename=\count337
+\c@refsection=\count338
+\c@refsegment=\count339
+\c@maxextratitle=\count340
+\c@maxextratitleyear=\count341
+\c@maxextraname=\count342
+\c@maxextradate=\count343
+\c@maxextraalpha=\count344
+\c@abbrvpenalty=\count345
+\c@highnamepenalty=\count346
+\c@lownamepenalty=\count347
+\c@maxparens=\count348
+\c@parenlevel=\count349
+\blx@tempcnta=\count350
+\blx@tempcntb=\count351
+\blx@tempcntc=\count352
+\blx@maxsection=\count353
+\blx@maxsegment@0=\count354
+\blx@notetype=\count355
+\blx@parenlevel@text=\count356
+\blx@parenlevel@foot=\count357
+\blx@sectionciteorder@0=\count358
+\blx@entrysetcounter=\count359
+\labelnumberwidth=\skip90
+\labelalphawidth=\skip91
+\biblabelsep=\skip92
+\bibitemsep=\skip93
+\bibnamesep=\skip94
+\bibinitsep=\skip95
+\bibparsep=\skip96
+\bibhang=\skip97
+\blx@bcfin=\read4
+\blx@bcfout=\write3
+\blx@langwohyphens=\language78
+\c@mincomprange=\count360
+\c@maxcomprange=\count361
+\c@mincompwidth=\count362
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(D:\Instalados\MikTex\tex/latex/biblatex\blx-dm.def
+File: blx-dm.def 2019/12/01 v3.14 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'numeric.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count363
+\c@savedafterword=\count364
+\c@annotator=\count365
+\c@savedannotator=\count366
+\c@author=\count367
+\c@savedauthor=\count368
+\c@bookauthor=\count369
+\c@savedbookauthor=\count370
+\c@commentator=\count371
+\c@savedcommentator=\count372
+\c@editor=\count373
+\c@savededitor=\count374
+\c@editora=\count375
+\c@savededitora=\count376
+\c@editorb=\count377
+\c@savededitorb=\count378
+\c@editorc=\count379
+\c@savededitorc=\count380
+\c@foreword=\count381
+\c@savedforeword=\count382
+\c@holder=\count383
+\c@savedholder=\count384
+\c@introduction=\count385
+\c@savedintroduction=\count386
+\c@namea=\count387
+\c@savednamea=\count388
+\c@nameb=\count389
+\c@savednameb=\count390
+\c@namec=\count391
+\c@savednamec=\count392
+\c@translator=\count393
+\c@savedtranslator=\count394
+\c@shortauthor=\count395
+\c@savedshortauthor=\count396
+\c@shorteditor=\count397
+\c@savedshorteditor=\count398
+\c@labelname=\count399
+\c@savedlabelname=\count400
+\c@institution=\count401
+\c@savedinstitution=\count402
+\c@lista=\count403
+\c@savedlista=\count404
+\c@listb=\count405
+\c@savedlistb=\count406
+\c@listc=\count407
+\c@savedlistc=\count408
+\c@listd=\count409
+\c@savedlistd=\count410
+\c@liste=\count411
+\c@savedliste=\count412
+\c@listf=\count413
+\c@savedlistf=\count414
+\c@location=\count415
+\c@savedlocation=\count416
+\c@organization=\count417
+\c@savedorganization=\count418
+\c@origlocation=\count419
+\c@savedoriglocation=\count420
+\c@origpublisher=\count421
+\c@savedorigpublisher=\count422
+\c@publisher=\count423
+\c@savedpublisher=\count424
+\c@language=\count425
+\c@savedlanguage=\count426
+\c@origlanguage=\count427
+\c@savedoriglanguage=\count428
+\c@pageref=\count429
+\c@savedpageref=\count430
+\shorthandwidth=\skip98
+\shortjournalwidth=\skip99
+\shortserieswidth=\skip100
+\shorttitlewidth=\skip101
+\shortauthorwidth=\skip102
+\shorteditorwidth=\skip103
+\locallabelnumberwidth=\skip104
+\locallabelalphawidth=\skip105
+\localshorthandwidth=\skip106
+\localshortjournalwidth=\skip107
+\localshortserieswidth=\skip108
+\localshorttitlewidth=\skip109
+\localshortauthorwidth=\skip110
+\localshorteditorwidth=\skip111
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(D:\Instalados\MikTex\tex/latex/biblatex\blx-compat.def
+File: blx-compat.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load BibTeX backend compatibility...
+Package biblatex Info: ... file 'blx-bibtex.def' found.
+
+(D:\Instalados\MikTex\tex/latex/biblatex\blx-bibtex.def
+File: blx-bibtex.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
+
+
+Package biblatex Warning: Using fall-back BibTeX(8) backend:
+(biblatex)                functionality may be reduced/unavailable.
+
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (D:\Instalados\MikTex\tex/latex/biblatex\biblatex.def
+File: biblatex.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
+\c@textcitecount=\count431
+\c@textcitetotal=\count432
+\c@textcitemaxnames=\count433
+\c@biburlbigbreakpenalty=\count434
+\c@biburlbreakpenalty=\count435
+\c@biburlnumpenalty=\count436
+\c@biburlucpenalty=\count437
+\c@biburllcpenalty=\count438
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count439
+)
+Package biblatex Info: Trying to load natbib compatibility...
+Package biblatex Info: ... file 'blx-natbib.def' found.
+
+(D:\Instalados\MikTex\tex/latex/biblatex\blx-natbib.def
+File: blx-natbib.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
+Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined,
+ overwriting.
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+(D:\Instalados\MikTex\tex/latex/biblatex/bbx\numeric.bbx
+File: numeric.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(D:\Instalados\MikTex\tex/latex/biblatex/bbx\standard.bbx
+File: standard.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count440
+\c@bbx:relatedtotal=\count441
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+
+(D:\Instalados\MikTex\tex/latex/biblatex/cbx\numeric.cbx
+File: numeric.cbx 2019/12/01 v3.14 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(D:\Instalados\MikTex\tex/latex/biblatex\biblatex.cfg
+File: biblatex.cfg 
+))
+(D:\Instalados\MikTex\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+
+(D:\Instalados\MikTex\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(D:\Instalados\MikTex\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(D:\Instalados\MikTex\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(D:\Instalados\MikTex\tex/latex/letltxmacro\letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(D:\Instalados\MikTex\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen196
+\Hy@linkcounter=\count442
+\Hy@pagecounter=\count443
+
+(D:\Instalados\MikTex\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(D:\Instalados\MikTex\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(D:\Instalados\MikTex\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count444
+Package hyperref Info: Hyper figures OFF on input line 4547.
+Package hyperref Info: Link nesting OFF on input line 4552.
+Package hyperref Info: Hyper index ON on input line 4555.
+Package hyperref Info: Plain pages OFF on input line 4562.
+Package hyperref Info: Backreferencing OFF on input line 4567.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4800.
+\c@Hy@tempcnt=\count445
+LaTeX Info: Redefining \url on input line 5159.
+\XeTeXLinkMargin=\dimen197
+
+(D:\Instalados\MikTex\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(D:\Instalados\MikTex\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count446
+\Field@Width=\dimen198
+\Fld@charsize=\dimen199
+Package hyperref Info: Hyper figures OFF on input line 6430.
+Package hyperref Info: Link nesting OFF on input line 6435.
+Package hyperref Info: Hyper index ON on input line 6438.
+Package hyperref Info: backreferencing OFF on input line 6445.
+Package hyperref Info: Link coloring OFF on input line 6450.
+Package hyperref Info: Link coloring with OCG OFF on input line 6455.
+Package hyperref Info: PDF/A mode OFF on input line 6460.
+LaTeX Info: Redefining \ref on input line 6500.
+LaTeX Info: Redefining \pageref on input line 6504.
+\Hy@abspage=\count447
+\c@Item=\count448
+\c@Hfootnote=\count449
+)
+Package scrhack Info: hyperref hack deactivated because of
+(scrhack)             detection of hyperref version, that doesn't
+(scrhack)             need that hack, on input line 32.
+Package hyperref Info: Driver (default): hdvips.
+
+(D:\Instalados\MikTex\tex/latex/hyperref\hdvips.def
+File: hdvips.def 2020/01/14 v7.00d Hyperref driver for dvips
+
+(D:\Instalados\MikTex\tex/latex/hyperref\pdfmark.def
+File: pdfmark.def 2020/01/14 v7.00d Hyperref definitions for pdfmark specials
+\pdf@docset=\toks33
+\pdf@box=\box76
+\pdf@toks=\toks34
+\pdf@defaulttoks=\toks35
+\HyField@AnnotCount=\count450
+\Fld@listcount=\count451
+\c@bookmark@seq@number=\count452
+
+(D:\Instalados\MikTex\tex/latex/rerunfilecheck\rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(D:\Instalados\MikTex\tex/latex/atveryend\atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+)
+(D:\Instalados\MikTex\tex/generic/uniquecounter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip112
+))
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 32.
+Package hyperref Info: Option `hypertexnames' set `false' on input line 32.
+Package hyperref Info: Option `colorlinks' set `true' on input line 32.
+Package hyperref Info: Option `unicode' set `true' on input line 32.
+
+(D:\Instalados\MikTex\tex/latex/hyperref\puenc.def
+File: puenc.def 2020/01/14 v7.00d Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `breaklinks' set `true' on input line 32.
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+ (main.aux
+LaTeX Info: Redefining \. on input line 32.
+LaTeX Info: Redefining \% on input line 32.
+
+(Chapters/Clase1.aux))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Trying to load font information for T1+ppl on input line 47
+.
+ (D:\Instalados\MikTex\tex/latex/psnfss\t1ppl.fd
+File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
+)
+LaTeX Info: Redefining \. on input line 47.
+LaTeX Info: Redefining \% on input line 47.
+
+(D:\Instalados\MikTex\tex/latex/translator\translator-basic-dictionary-English.
+dict
+Dictionary: translator-basic-dictionary, Language: English 
+)
+(D:\Instalados\MikTex\tex/latex/translator\translator-basic-dictionary-Spanish.
+dict
+Dictionary: translator-basic-dictionary, Language: Spanish 
+) (D:\Instalados\MikTex\tex/latex/siunitx\siunitx-abbreviations.cfg
+File: siunitx-abbreviations.cfg 2021-04-17 v2.8e siunitx: Abbreviated units
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: dvips
+*geometry* verbose mode - [ preamble ] result:
+* driver: dvips
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* bindingoffset: 56.9055pt
+* modes: includehead includefoot twoside 
+* h-part:(L,W,R)=(42.67912pt, 457.80487pt, 56.9055pt)
+* v-part:(T,H,B)=(42.67912pt, 709.61174pt, 42.67912pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=457.80487pt
+* \textheight=639.07632pt
+* \oddsidemargin=27.31464pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-29.59087pt
+* \headheight=20.66162pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=98.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package scrlayer Info: Setting magic \footheight to \baselineskip while
+(scrlayer)             \begin{document} on input line 47.
+\AtBeginShipoutBox=\box77
+Package biblatex Info: Trying to load language 'spanish'...
+Package biblatex Info: ... file 'spanish.lbx' found.
+(D:\Instalados\MikTex\tex/latex/biblatex/lbx\spanish.lbx
+File: spanish.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'latin1' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'latin1'.
+Package biblatex Info: Input encoding 'latin1' specified.
+Package biblatex Info: Data encoding 'latin1' specified.
+(biblatex)             No need to reencode data.
+\openout3 = `main-blx.bib'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'main.bbl' found.
+ (main.bbl)
+Package biblatex Info: Reference section=0 on input line 47.
+Package biblatex Info: Reference segment=0 on input line 47.
+Package hyperref Info: Link coloring ON on input line 47.
+
+(D:\Instalados\MikTex\tex/latex/hyperref\nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+(D:\Instalados\MikTex\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(D:\Instalados\MikTex\tex/generic/gettitlestring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count453
+)
+LaTeX Info: Redefining \ref on input line 47.
+LaTeX Info: Redefining \pageref on input line 47.
+LaTeX Info: Redefining \nameref on input line 47.
+ (main.out) (main.out)
+\@outlinefile=\write4
+\openout4 = `main.out'.
+
+
+1: section
+File: uaemex.png Graphic file (type eps)
+<uaemex.png>
+! Undefined control sequence.
+l.69 \Large{{M. en C. Laura Jalili}{\supname
+                                            } }\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[1
+
+
+
+] [2
+
+]
+1: section
+(main.toc
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+)
+\tf@toc=\write5
+\openout5 = `main.toc'.
+
+
+1: section
+[1
+
+]
+\openout2 = `Chapters/Clase1.aux'.
+
+ (Chapters/Clase1.tex [2
+
+
+]
+Cap\'{\i }tulo 1.
+)
+1: section
+[3]
+
+LaTeX Warning: Empty bibliography on input line 101.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 103.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 103.
+(main.aux
+LaTeX Info: Redefining \. on input line 32.
+LaTeX Info: Redefining \% on input line 32.
+ (Chapters/Clase1.aux))
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 103.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 103.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: DE0A27576371D29D5F9624EB88987A26;739
+(rerunfilecheck)             After:  0868A8CB5E9661B3A0F98B30DF7D559B;632.
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 28508 strings out of 480931
+ 574962 string characters out of 2912867
+ 1075801 words of memory out of 3000000
+ 44015 multiletter control sequences out of 15000+200000
+ 551012 words of font info for 61 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 51i,19n,67p,811b,1894s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on main.dvi (5 pages, 9384 bytes).
